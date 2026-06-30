@@ -1,0 +1,27 @@
+topology_class,family,real_dimension,discontinuous_fraction,samples
+$\chi(M)=0$,Flat torus,2,0.5,180
+$\chi(M)=0$,Flat torus,3,0.4,180
+$\chi(M)=0$,Flat torus,4,0.48333333333333334,180
+$\chi(M)=0$,Flat torus,5,0.5222222222222223,180
+$\chi(M)=0$,Flat torus,6,0.5222222222222223,180
+$\chi(M)=0$,Flat torus,7,0.49444444444444446,180
+$\chi(M)=0$,Flat torus,8,0.5277777777777778,180
+$\chi(M)=0$,Flat torus,9,0.5277777777777778,180
+$\chi(M)=0$,Flat torus,10,0.5166666666666667,180
+$\chi(M)=0$,Flat torus,11,0.48333333333333334,180
+$\chi(M)=0$,Flat torus,12,0.5388888888888889,180
+$\chi(M)=0$,Unitary group,4,0.4722222222222222,180
+$\chi(M)=0$,Unitary group,9,0.4888888888888889,180
+$\chi(M)=0$,Unitary group,16,0.5111111111111111,180
+"$\chi(M)\ne0$, sign condition",Complex Grassmannian,8,1.0,180
+"$\chi(M)\ne0$, sign condition",Complex Grassmannian,12,1.0,180
+"$\chi(M)\ne0$, sign condition",Complex Grassmannian,16,1.0,180
+"$\chi(M)\ne0$, sign condition",Complex Grassmannian,20,1.0,180
+"$\chi(M)\ne0$, sign condition",Complex Grassmannian,24,1.0,180
+"$\chi(M)\ne0$, sign condition",Complex Grassmannian,28,1.0,180
+"$\chi(M)\ne0$, sign condition",Complex projective space,4,1.0,180
+"$\chi(M)\ne0$, sign condition",Complex projective space,6,1.0,180
+"$\chi(M)\ne0$, sign condition",Complex projective space,8,1.0,180
+"$\chi(M)\ne0$, sign condition",Complex projective space,10,1.0,180
+"$\chi(M)\ne0$, sign condition",Complex projective space,12,1.0,180
+"$\chi(M)\ne0$, sign condition",Complex projective space,14,1.0,180

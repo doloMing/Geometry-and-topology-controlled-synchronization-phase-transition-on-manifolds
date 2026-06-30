@@ -1,0 +1,13 @@
+label,family,real_dimension,chi_theory,index_sum,defect_count
+$\mathbb{CP}^2$,Complex projective space,4,3,3,3
+$\mathbb{CP}^3$,Complex projective space,6,4,4,4
+$\mathbb{CP}^4$,Complex projective space,8,5,5,5
+$\mathbb{CP}^5$,Complex projective space,10,6,6,6
+$\mathbb{CP}^6$,Complex projective space,12,7,7,7
+$\mathbb{CP}^7$,Complex projective space,14,8,8,8
+$\mathrm{Gr}_{2}(\mathbb{C}^{4})$,Complex Grassmannian,8,6,6,6
+$\mathrm{Gr}_{2}(\mathbb{C}^{5})$,Complex Grassmannian,12,10,10,10
+$\mathrm{Gr}_{2}(\mathbb{C}^{6})$,Complex Grassmannian,16,15,15,15
+$\mathrm{Gr}_{2}(\mathbb{C}^{7})$,Complex Grassmannian,20,21,21,21
+$\mathrm{Gr}_{2}(\mathbb{C}^{8})$,Complex Grassmannian,24,28,28,28
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,36,36,36

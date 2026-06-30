@@ -1,0 +1,17 @@
+family,manifold,dimension,chi_theory,index_sum,defect_count
+Sphere,$S^1$,1,0,0,2
+Sphere,$S^2$,2,2,2,2
+Sphere,$S^3$,3,0,0,2
+Sphere,$S^4$,4,2,2,2
+Sphere,$S^5$,5,0,0,2
+Sphere,$S^6$,6,2,2,2
+Sphere,$S^7$,7,0,0,2
+Sphere,$S^8$,8,2,2,2
+Torus,$\mathbb{T}^1$,1,0,0,2
+Torus,$\mathbb{T}^2$,2,0,0,4
+Torus,$\mathbb{T}^3$,3,0,0,8
+Torus,$\mathbb{T}^4$,4,0,0,16
+Torus,$\mathbb{T}^5$,5,0,0,32
+Torus,$\mathbb{T}^6$,6,0,0,64
+Torus,$\mathbb{T}^7$,7,0,0,128
+Torus,$\mathbb{T}^8$,8,0,0,256

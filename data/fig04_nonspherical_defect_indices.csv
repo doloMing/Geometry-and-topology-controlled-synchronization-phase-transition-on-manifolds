@@ -1,0 +1,150 @@
+label,family,real_dimension,ambient_dimension,chi_theory,zero_label,index,jacobian_det
+$\mathbb{CP}^2$,Complex projective space,4,8,3,0,1,4.0
+$\mathbb{CP}^2$,Complex projective space,4,8,3,1,1,1.0
+$\mathbb{CP}^2$,Complex projective space,4,8,3,2,1,4.0
+$\mathbb{CP}^3$,Complex projective space,6,15,4,0,1,3.1604938271604937
+$\mathbb{CP}^3$,Complex projective space,6,15,4,1,1,0.35116598079561046
+$\mathbb{CP}^3$,Complex projective space,6,15,4,2,1,0.35116598079561046
+$\mathbb{CP}^3$,Complex projective space,6,15,4,3,1,3.160493827160495
+$\mathbb{CP}^4$,Complex projective space,8,24,5,0,1,2.25
+$\mathbb{CP}^4$,Complex projective space,8,24,5,1,1,0.140625
+$\mathbb{CP}^4$,Complex projective space,8,24,5,2,1,0.0625
+$\mathbb{CP}^4$,Complex projective space,8,24,5,3,1,0.140625
+$\mathbb{CP}^4$,Complex projective space,8,24,5,4,1,2.25
+$\mathbb{CP}^5$,Complex projective space,10,35,6,0,1,1.5099494400000015
+$\mathbb{CP}^5$,Complex projective space,10,35,6,1,1,0.060397977600000076
+$\mathbb{CP}^5$,Complex projective space,10,35,6,2,1,0.015099494400000019
+$\mathbb{CP}^5$,Complex projective space,10,35,6,3,1,0.015099494400000005
+$\mathbb{CP}^5$,Complex projective space,10,35,6,4,1,0.06039797759999998
+$\mathbb{CP}^5$,Complex projective space,10,35,6,5,1,1.5099494399999986
+$\mathbb{CP}^6$,Complex projective space,12,48,7,0,1,0.9754610577655838
+$\mathbb{CP}^6$,Complex projective space,12,48,7,1,1,0.02709614049348846
+$\mathbb{CP}^6$,Complex projective space,12,48,7,2,1,0.004335382478958154
+$\mathbb{CP}^6$,Complex projective space,12,48,7,3,1,0.00243865264441396
+$\mathbb{CP}^6$,Complex projective space,12,48,7,4,1,0.00433538247895815
+$\mathbb{CP}^6$,Complex projective space,12,48,7,5,1,0.027096140493488453
+$\mathbb{CP}^6$,Complex projective space,12,48,7,6,1,0.9754610577655859
+$\mathbb{CP}^7$,Complex projective space,14,63,8,0,1,0.6136326395558328
+$\mathbb{CP}^7$,Complex projective space,14,63,8,1,1,0.012523115092976182
+$\mathbb{CP}^7$,Complex projective space,14,63,8,2,1,0.0013914572325529084
+$\mathbb{CP}^7$,Complex projective space,14,63,8,3,1,0.0005009246037190471
+$\mathbb{CP}^7$,Complex projective space,14,63,8,4,1,0.000500924603719047
+$\mathbb{CP}^7$,Complex projective space,14,63,8,5,1,0.0013914572325529084
+$\mathbb{CP}^7$,Complex projective space,14,63,8,6,1,0.012523115092976194
+$\mathbb{CP}^7$,Complex projective space,14,63,8,7,1,0.6136326395558342
+$\mathrm{Gr}_{2}(\mathbb{C}^{4})$,Complex Grassmannian,8,15,6,0,1,5.618655692729767
+$\mathrm{Gr}_{2}(\mathbb{C}^{4})$,Complex Grassmannian,8,15,6,1,1,0.35116598079561046
+$\mathrm{Gr}_{2}(\mathbb{C}^{4})$,Complex Grassmannian,8,15,6,2,1,0.6242950769699742
+$\mathrm{Gr}_{2}(\mathbb{C}^{4})$,Complex Grassmannian,8,15,6,3,1,0.6242950769699742
+$\mathrm{Gr}_{2}(\mathbb{C}^{4})$,Complex Grassmannian,8,15,6,4,1,0.35116598079561046
+$\mathrm{Gr}_{2}(\mathbb{C}^{4})$,Complex Grassmannian,8,15,6,5,1,5.618655692729767
+$\mathrm{Gr}_{2}(\mathbb{C}^{5})$,Complex Grassmannian,12,24,10,0,1,5.0625
+$\mathrm{Gr}_{2}(\mathbb{C}^{5})$,Complex Grassmannian,12,24,10,1,1,0.140625
+$\mathrm{Gr}_{2}(\mathbb{C}^{5})$,Complex Grassmannian,12,24,10,2,1,0.0625
+$\mathrm{Gr}_{2}(\mathbb{C}^{5})$,Complex Grassmannian,12,24,10,3,1,0.31640625
+$\mathrm{Gr}_{2}(\mathbb{C}^{5})$,Complex Grassmannian,12,24,10,4,1,0.140625
+$\mathrm{Gr}_{2}(\mathbb{C}^{5})$,Complex Grassmannian,12,24,10,5,1,0.019775390625
+$\mathrm{Gr}_{2}(\mathbb{C}^{5})$,Complex Grassmannian,12,24,10,6,1,0.0625
+$\mathrm{Gr}_{2}(\mathbb{C}^{5})$,Complex Grassmannian,12,24,10,7,1,0.140625
+$\mathrm{Gr}_{2}(\mathbb{C}^{5})$,Complex Grassmannian,12,24,10,8,1,0.140625
+$\mathrm{Gr}_{2}(\mathbb{C}^{5})$,Complex Grassmannian,12,24,10,9,1,5.0625
+$\mathrm{Gr}_{2}(\mathbb{C}^{6})$,Complex Grassmannian,16,35,15,0,1,3.562417673994246
+$\mathrm{Gr}_{2}(\mathbb{C}^{6})$,Complex Grassmannian,16,35,15,1,1,0.055662776156160096
+$\mathrm{Gr}_{2}(\mathbb{C}^{6})$,Complex Grassmannian,16,35,15,2,1,0.010995116277760007
+$\mathrm{Gr}_{2}(\mathbb{C}^{6})$,Complex Grassmannian,16,35,15,3,1,0.013915694039040003
+$\mathrm{Gr}_{2}(\mathbb{C}^{6})$,Complex Grassmannian,16,35,15,4,1,0.14249670695976963
+$\mathrm{Gr}_{2}(\mathbb{C}^{6})$,Complex Grassmannian,16,35,15,5,1,0.035624176739942476
+$\mathrm{Gr}_{2}(\mathbb{C}^{6})$,Complex Grassmannian,16,35,15,6,1,0.002226511046246402
+$\mathrm{Gr}_{2}(\mathbb{C}^{6})$,Complex Grassmannian,16,35,15,7,1,0.0017592186044416008
+$\mathrm{Gr}_{2}(\mathbb{C}^{6})$,Complex Grassmannian,16,35,15,8,1,0.01391569403904
+$\mathrm{Gr}_{2}(\mathbb{C}^{6})$,Complex Grassmannian,16,35,15,9,1,0.008906044184985602
+$\mathrm{Gr}_{2}(\mathbb{C}^{6})$,Complex Grassmannian,16,35,15,10,1,0.0022265110462464013
+$\mathrm{Gr}_{2}(\mathbb{C}^{6})$,Complex Grassmannian,16,35,15,11,1,0.010995116277760005
+$\mathrm{Gr}_{2}(\mathbb{C}^{6})$,Complex Grassmannian,16,35,15,12,1,0.035624176739942434
+$\mathrm{Gr}_{2}(\mathbb{C}^{6})$,Complex Grassmannian,16,35,15,13,1,0.055662776156160026
+$\mathrm{Gr}_{2}(\mathbb{C}^{6})$,Complex Grassmannian,16,35,15,14,1,3.5624176739942395
+$\mathrm{Gr}_{2}(\mathbb{C}^{7})$,Complex Grassmannian,20,48,21,0,1,2.140929619238595
+$\mathrm{Gr}_{2}(\mathbb{C}^{7})$,Complex Grassmannian,20,48,21,1,1,0.021409296192385935
+$\mathrm{Gr}_{2}(\mathbb{C}^{7})$,Complex Grassmannian,20,48,21,2,1,0.0023788106880428795
+$\mathrm{Gr}_{2}(\mathbb{C}^{7})$,Complex Grassmannian,20,48,21,3,1,0.0013380810120241196
+$\mathrm{Gr}_{2}(\mathbb{C}^{7})$,Complex Grassmannian,20,48,21,4,1,0.003425487390781748
+$\mathrm{Gr}_{2}(\mathbb{C}^{7})$,Complex Grassmannian,20,48,21,5,1,0.059470267201072104
+$\mathrm{Gr}_{2}(\mathbb{C}^{7})$,Complex Grassmannian,20,48,21,6,1,0.00951524275217153
+$\mathrm{Gr}_{2}(\mathbb{C}^{7})$,Complex Grassmannian,20,48,21,7,1,0.0003345202530060301
+$\mathrm{Gr}_{2}(\mathbb{C}^{7})$,Complex Grassmannian,20,48,21,8,1,0.0001174721327428583
+$\mathrm{Gr}_{2}(\mathbb{C}^{7})$,Complex Grassmannian,20,48,21,9,1,0.0002323057312541877
+$\mathrm{Gr}_{2}(\mathbb{C}^{7})$,Complex Grassmannian,20,48,21,10,1,0.003425487390781755
+$\mathrm{Gr}_{2}(\mathbb{C}^{7})$,Complex Grassmannian,20,48,21,11,1,0.0008563718476954373
+$\mathrm{Gr}_{2}(\mathbb{C}^{7})$,Complex Grassmannian,20,48,21,12,1,9.515242752171524e-05
+$\mathrm{Gr}_{2}(\mathbb{C}^{7})$,Complex Grassmannian,20,48,21,13,1,0.00011747213274285842
+$\mathrm{Gr}_{2}(\mathbb{C}^{7})$,Complex Grassmannian,20,48,21,14,1,0.001338081012024123
+$\mathrm{Gr}_{2}(\mathbb{C}^{7})$,Complex Grassmannian,20,48,21,15,1,0.0008563718476954374
+$\mathrm{Gr}_{2}(\mathbb{C}^{7})$,Complex Grassmannian,20,48,21,16,1,0.0003345202530060303
+$\mathrm{Gr}_{2}(\mathbb{C}^{7})$,Complex Grassmannian,20,48,21,17,1,0.0023788106880428847
+$\mathrm{Gr}_{2}(\mathbb{C}^{7})$,Complex Grassmannian,20,48,21,18,1,0.009515242752171528
+$\mathrm{Gr}_{2}(\mathbb{C}^{7})$,Complex Grassmannian,20,48,21,19,1,0.02140929619238595
+$\mathrm{Gr}_{2}(\mathbb{C}^{7})$,Complex Grassmannian,20,48,21,20,1,2.1409296192385927
+$\mathrm{Gr}_{2}(\mathbb{C}^{8})$,Complex Grassmannian,24,63,28,0,1,1.1531691125052925
+$\mathrm{Gr}_{2}(\mathbb{C}^{8})$,Complex Grassmannian,24,63,28,1,1,0.008008118836842305
+$\mathrm{Gr}_{2}(\mathbb{C}^{8})$,Complex Grassmannian,24,63,28,2,1,0.0005694662283976748
+$\mathrm{Gr}_{2}(\mathbb{C}^{8})$,Complex Grassmannian,24,63,28,3,1,0.00018018267382895176
+$\mathrm{Gr}_{2}(\mathbb{C}^{8})$,Complex Grassmannian,24,63,28,4,1,0.00020500784222316303
+$\mathrm{Gr}_{2}(\mathbb{C}^{8})$,Complex Grassmannian,24,63,28,5,1,0.0008897909818713685
+$\mathrm{Gr}_{2}(\mathbb{C}^{8})$,Complex Grassmannian,24,63,28,6,1,0.023534063520516214
+$\mathrm{Gr}_{2}(\mathbb{C}^{8})$,Complex Grassmannian,24,63,28,7,1,0.002614895946724018
+$\mathrm{Gr}_{2}(\mathbb{C}^{8})$,Complex Grassmannian,24,63,28,8,1,5.8835158801290404e-05
+$\mathrm{Gr}_{2}(\mathbb{C}^{8})$,Complex Grassmannian,24,63,28,9,1,1.1621759763217854e-05
+$\mathrm{Gr}_{2}(\mathbb{C}^{8})$,Complex Grassmannian,24,63,28,10,1,1.0214437291890696e-05
+$\mathrm{Gr}_{2}(\mathbb{C}^{8})$,Complex Grassmannian,24,63,28,11,1,3.7654501632825924e-05
+$\mathrm{Gr}_{2}(\mathbb{C}^{8})$,Complex Grassmannian,24,63,28,12,1,0.0008897909818713687
+$\mathrm{Gr}_{2}(\mathbb{C}^{8})$,Complex Grassmannian,24,63,28,13,1,0.00010459583786896069
+$\mathrm{Gr}_{2}(\mathbb{C}^{8})$,Complex Grassmannian,24,63,28,14,1,6.537239866810042e-06
+$\mathrm{Gr}_{2}(\mathbb{C}^{8})$,Complex Grassmannian,24,63,28,15,1,3.5869628898820557e-06
+$\mathrm{Gr}_{2}(\mathbb{C}^{8})$,Complex Grassmannian,24,63,28,16,1,1.0214437291890711e-05
+$\mathrm{Gr}_{2}(\mathbb{C}^{8})$,Complex Grassmannian,24,63,28,17,1,0.0002050078422231634
+$\mathrm{Gr}_{2}(\mathbb{C}^{8})$,Complex Grassmannian,24,63,28,18,1,3.765450163282585e-05
+$\mathrm{Gr}_{2}(\mathbb{C}^{8})$,Complex Grassmannian,24,63,28,19,1,6.537239866810049e-06
+$\mathrm{Gr}_{2}(\mathbb{C}^{8})$,Complex Grassmannian,24,63,28,20,1,1.1621759763217874e-05
+$\mathrm{Gr}_{2}(\mathbb{C}^{8})$,Complex Grassmannian,24,63,28,21,1,0.00018018267382895225
+$\mathrm{Gr}_{2}(\mathbb{C}^{8})$,Complex Grassmannian,24,63,28,22,1,0.00010459583786896084
+$\mathrm{Gr}_{2}(\mathbb{C}^{8})$,Complex Grassmannian,24,63,28,23,1,5.8835158801290465e-05
+$\mathrm{Gr}_{2}(\mathbb{C}^{8})$,Complex Grassmannian,24,63,28,24,1,0.0005694662283976759
+$\mathrm{Gr}_{2}(\mathbb{C}^{8})$,Complex Grassmannian,24,63,28,25,1,0.002614895946724018
+$\mathrm{Gr}_{2}(\mathbb{C}^{8})$,Complex Grassmannian,24,63,28,26,1,0.00800811883684231
+$\mathrm{Gr}_{2}(\mathbb{C}^{8})$,Complex Grassmannian,24,63,28,27,1,1.1531691125052943
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,80,36,0,1,0.5730893826694228
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,80,36,1,1,0.0029239254217827693
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,80,36,2,1,0.0001443913788534701
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,80,36,3,1,2.9239254217827693e-05
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,80,36,4,1,1.8713122699409723e-05
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,80,36,5,1,3.609784471336752e-05
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,80,36,6,1,0.0002386877895332873
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,80,36,7,1,0.00895452160420973
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,80,36,8,1,0.0007309813554456923
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,80,36,9,1,1.1421583678838942e-05
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,80,36,10,1,1.4439137885347009e-06
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,80,36,11,1,7.138489799274339e-07
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,80,36,12,1,1.1695701687131077e-06
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,80,36,13,1,6.909353089668002e-06
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,80,36,14,1,0.0002386877895332873
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,80,36,15,1,1.4917986845830455e-05
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,80,36,16,1,5.967194738332182e-07
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,80,36,17,1,1.8417267710901797e-07
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,80,36,18,1,2.3309354446610087e-07
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,80,36,19,1,1.1695701687131077e-06
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,80,36,20,1,3.609784471336752e-05
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,80,36,21,1,2.386877895332873e-06
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,80,36,22,1,2.3309354446610087e-07
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,80,36,23,1,1.8417267710901797e-07
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,80,36,24,1,7.138489799274339e-07
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,80,36,25,1,1.8713122699409723e-05
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,80,36,26,1,2.386877895332873e-06
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,80,36,27,1,5.967194738332182e-07
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,80,36,28,1,1.4439137885347009e-06
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,80,36,29,1,2.9239254217827693e-05
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,80,36,30,1,1.4917986845830455e-05
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,80,36,31,1,1.1421583678838942e-05
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,80,36,32,1,0.0001443913788534701
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,80,36,33,1,0.0007309813554456923
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,80,36,34,1,0.0029239254217827693
+$\mathrm{Gr}_{2}(\mathbb{C}^{9})$,Complex Grassmannian,28,80,36,35,1,0.5730893826694228
